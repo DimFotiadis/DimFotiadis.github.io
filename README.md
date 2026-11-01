@@ -4,4 +4,5 @@ byte0: Με την ls βλεπουμε το πρωτο directory. Με την cd
 byte1: Χρησιμοποιουμε την man και το ονομα του προγραματος. Στο description βρισκεται το string.
 byte2: Με την ls βλεπουμε το txt αρχειο. Με την grep βλεποθμε ολες τις γραμμες με will find και βρισκουμε το string.
 byte3: Mε την ls βλεπουμε 2 txt αρχεια. Με την diff βρισκουμε την αλλαγμενη λεξη (string).
-byte4:
+byte4: ls για ν δουμε τα directories. Με την diff ψαχνουμε στο maze για το cup.txt. Κανουμε navigate στο directory 8. cat cup.txt και εμφανιζεται το string
+byte5: 
