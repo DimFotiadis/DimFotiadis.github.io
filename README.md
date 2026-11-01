@@ -15,4 +15,4 @@ byte11: Sort, uniq-c(για να εμφανισει την συχνοτητα τ
 bute12: Η which για το tuxsay μας εμφανιζει το filepath μεχρι το tuxsay. Βλεπουμε το basename του φακελου στον οποιο ειναι το tuxsay.
 byte13: ls και στη συνεχεια cd για να μπουμε στο repo και στη συνεχεια git log.
 byte14: Μπαινουμε στο repo. Με git log -p μας εμφανιζεται το ιστορικο των README.md Πηγαινουμε στο "Yikes, how did this get here?" και εκει βρισκεται ο κωδικος.
-  
+byte15: Η ls με το ορισμα -a.  
